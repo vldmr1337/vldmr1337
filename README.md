@@ -14,7 +14,7 @@ Olá! Sou um desenvolvedor júnior especializado em back-end, com foco em Node.j
 ## Projetos
 
 - **Workzen API**: Uma API para uma aplicação de busca de empregos, conectando candidatos a vagas e empresas a talentos qualificados. O projeto inclui funcionalidades como autenticação, gestão de perfis, criação de vagas, e sistema de recomendações.
-
+- **LibraryBot**: Um bot para Discord que pesquisa livros no LibGen e retorna links de download.
 ## Objetivos
 
 Estou sempre buscando aprender e evoluir como desenvolvedor. No momento, estou focado em:
