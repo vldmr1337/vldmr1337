@@ -19,7 +19,7 @@ Olá! Sou um desenvolvedor júnior especializado em back-end, com foco em Node.j
 
 Estou sempre buscando aprender e evoluir como desenvolvedor. No momento, estou focado em:
 
-- Aprimorar minhas habilidades em **React** para o desenvolvimento front-end.
+- Aprimorar minhas habilidades em **Python**..
 - Entender melhor sobre **arquitetura de software** e práticas de **DevOps** para melhorar a qualidade do código e a infraestrutura dos meus projetos.
 - Contribuir para projetos open-source para ganhar mais experiência colaborativa e ajudar a comunidade.
 
